@@ -1,4 +1,4 @@
-# 🚗 DR. DRIVING
+# Dr. Driving - Car Game
 <img width="1080" height="1834" alt="46334" src="https://github.com/user-attachments/assets/c21ef271-90d5-46e1-ac60-94f05a1e6355" />
 
 ### 🏁 Drive • Explore • Challenge Yourself!
